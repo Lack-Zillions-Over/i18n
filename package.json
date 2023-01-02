@@ -1,6 +1,6 @@
 {
   "name": "lzo-i18n",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Support for i18n in Node.js",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
