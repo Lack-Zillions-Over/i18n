@@ -94,7 +94,7 @@ Support this project by becoming a [sponsor][sponsor].
 
 ## License
 
-Licensed under the APLv2. See the [LICENSE](https://github.com/Lack-Zillions-Over/i18n/blob/main/LICENSE) file for details.
+Licensed under the MIT. See the [LICENSE](https://github.com/Lack-Zillions-Over/i18n/blob/main/LICENSE) file for details.
 
 [commitizen-badge]: https://img.shields.io/badge/commitizen-friendly-brightgreen.svg
 [commitizen]: http://commitizen.github.io/cz-cli/
