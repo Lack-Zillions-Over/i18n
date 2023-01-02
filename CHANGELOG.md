@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.2](https://github.com/Lack-Zillions-Over/i18n/compare/v1.0.1...v1.0.2) (2023-01-02)
+
+
+### Bug Fixes
+
+* **fixed license name:** change for MIT ([54bbf6c](https://github.com/Lack-Zillions-Over/i18n/commit/54bbf6cad86836c0f8590ea736190814ab65a6a1))
+
 ### 1.0.1 (2023-01-02)
 
 
