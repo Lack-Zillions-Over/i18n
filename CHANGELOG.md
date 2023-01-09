@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.3](https://github.com/Lack-Zillions-Over/i18n/compare/v1.0.2...v1.0.3) (2023-01-09)
+
+
+### Build System
+
+* **packages:** update Packages ([08da014](https://github.com/Lack-Zillions-Over/i18n/commit/08da014115ab32274bfb8259d9aa0b143a2ee33f))
+
 ### [1.0.2](https://github.com/Lack-Zillions-Over/i18n/compare/v1.0.1...v1.0.2) (2023-01-02)
 
 
