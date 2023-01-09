@@ -53,8 +53,8 @@
     "type-check:watch": "npm run type-check -- --watch",
     "format": "prettier --write .",
     "lint": "eslint . --ext .ts",
-    "test": "jest --watchAll --detectOpenHandles",
-    "test:ci": "jest --ci --detectOpenHandles"
+    "test": "dotenv -e .env.test jest --watchAll --detectOpenHandles",
+    "test:ci": "dotenv -e .env.test jest --ci --detectOpenHandles"
   },
   "husky": {
     "hooks": {
